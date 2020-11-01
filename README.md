@@ -10,4 +10,4 @@ Chrome extension to remove Diario de Mallorca premium paywalls
 
 ## Authors
 * [Joan Font](https://github.com/joanfont)
-* [Llorenç Seguí](https://github.com/lsegui21)
+* [Llorenç Seguí](https://github.com/llorenssegui)
